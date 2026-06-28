@@ -17,8 +17,6 @@ The dashboard includes several interactive features:
 * A map that automatically updates to show the location of the selected animal from the table.
 * The Grazioso Salvare logo and my name displayed on the dashboard.
 
-*(Insert screenshots of the Reset view, Water Rescue filter, Mountain/Wilderness Rescue filter, and Disaster/Individual Tracking filter here.)*
-
 ## Why I Chose These Tools
 
 I used MongoDB because it works well with large collections of data and makes it easy to search and filter records. Since the animal records don't all have exactly the same structure, MongoDB was a good choice because it doesn't require a fixed table format like a relational database.
